@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Thu Oct 10 13:59:08 2024
+[*]
+[dumpfile] "waveforms.ghw"
+[dumpfile_mtime] "Thu Oct 10 13:55:25 2024"
+[dumpfile_size] 130956
+[savefile] "waveforms.gtkw"
+[timestart] 0
+[size] 1916 1053
+[pos] -1 -1
+*-27.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb.
+[sst_width] 216
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 306
+@8028
+top.tb.schmitt_inv_inst.trig_in
+@20000
+-
+-
+@29
+top.tb.schmitt_inv_inst.trig_out
+[pattern_trace] 1
+[pattern_trace] 0
